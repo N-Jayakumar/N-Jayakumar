@@ -110,15 +110,6 @@ Passionate about building scalable web applications and solving real-world probl
 
 ---
 
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=N-Jayakumar&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p>
