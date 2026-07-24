@@ -1,43 +1,144 @@
-# 👋 Hi, I'm Jayakumar
+<h1 align="center">Hi 👋, I'm Jayakumar</h1>
 
-## 🚀 About Me
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=0A84FF&center=true&vCenter=true&width=700&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+React+Developer;Backend+Developer;Always+Learning+New+Technologies" />
+</p>
 
-🎓 BE Computer Science Engineering
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=N-Jayakumar&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://img.shields.io/github/followers/N-Jayakumar?style=social"/>
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+🎓 Computer Science Engineering Student
 
 💻 Full Stack Java Developer
 
-🌱 Learning Spring Boot, React & AI
+---
+
+# 🚀 Tech Expertise
+
+## 🧩 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,html,css"/>
+</p>
 
 ---
 
-## 🚀 Tech Expertise
+## ⚙️ Frameworks & Libraries
 
-### 💻 Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=spring,react,bootstrap"/>
+</p>
 
 ---
 
-## 🚀 Projects
+## 🗄️ Database & Cloud
 
-### JKØ Premium E-Commerce
-Modern Premium Shopping Website
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,vercel"/>
+</p>
 
 ---
 
-## 📫 Contact
+## 🛠 Tools
 
-📧 jayakumar904278@gmail.com
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,maven"/>
+</p>
 
-🔗 LinkedIn:
-https://linkedin.com/in/yourprofile
+---
 
-🌐 Portfolio:
-https://yourportfolio.vercel.app
+# 🚀 Featured Projects
+
+### 🛒 JK1 Premium E-Commerce
+
+✔ Spring Boot Backend
+
+✔ React Frontend
+
+✔ JWT Authentication
+
+✔ Shopping Cart
+
+✔ Wishlist
+
+✔ Admin Dashboard
+
+✔ MySQL Database
+
+---
+
+### 🏥 AI Medical Appointment System
+
+✔ Doctor Dashboard
+
+✔ Patient Dashboard
+
+✔ Appointment Booking
+
+✔ Admin Panel
+
+✔ AI Ready Architecture
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=N-Jayakumar&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-Jayakumar&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=N-Jayakumar&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=N-Jayakumar&theme=tokyonight&column=4"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/N-Jayakumar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</p>
