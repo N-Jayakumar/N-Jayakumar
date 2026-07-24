@@ -110,17 +110,6 @@ Passionate about building scalable web applications and solving real-world probl
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=N-Jayakumar&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-Jayakumar&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 <p align="center">
 
